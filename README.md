@@ -16,7 +16,6 @@ The Harvest To Order is a global project that supports the operational organisat
 
 This short video will give you a brief introduction to how the Harvest To Order works, and what we can do for your food business, or organisation.
 
-{% embed url="http://www.youtube.com/embed/eA3IcMUnU14" %}
 
 ## How to use this guide?
 
