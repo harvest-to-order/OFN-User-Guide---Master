@@ -16,8 +16,8 @@ There are three types of profiles for producers:
 
 ![](../../.gitbook/assets/prod_choosenew.jpg)
 
-{% tabs %}
-{% tab title="Producer Profile" %}
+
+%accordion%Producer Profile" %}
 With this option not only will your enterprise will be visible on the Harvest To Order map and to customers searching our platform, but you will be able to manage a product catalog. Your products can be distributed and sold through other enterprises which are part of the Harvest To Order network. 
 
 As a 'Producer Profile' you will not be able to manage your own online shop front. For more information on the quick setup guide for this type of profile, [click here](../../quick-start-guides/).
@@ -27,24 +27,24 @@ If you'd like to retail your products on an existing online sales platform and j
 
 You can put the link to your online shop in your enterprise description.
 {% endhint %}
-{% endtab %}
+%/accordion%
 
-{% tab title="Producer shop" %}
+%accordion%Producer shop%accordion%
 #### You would like to sell only your own products on Harvest To Order
 
 This option allows you to run a shopfront which retails only those products in your own catalog. Note that 'Producer Shops' can conduct sales through their own shopfront and/or act as a supplier to other shopfronts \(hubs\). 
 
 For more information on the quick setup guide for this type of profile, click [here](../../quick-start-guides/).
-{% endtab %}
+%/accordion%
 
-{% tab title="Producer Hub \(multi-producer shop\)" %}
+%accordion%Producer Hub \(multi-producer shop\)%accordion%
 #### You would like to sell your products as well as those of other producers / suppliers 
 
 This option allows you to manage a shop which retails both products made by yourself and those made by other local producers.  You can retail products from any Producer who has given you [permission](create-or-connect-with-your-supplying-producers.md) to do so. 
 
  For more information on the quick setup guide for this type of profile, click [here](../../quick-start-guides/).
-{% endtab %}
-{% endtabs %}
+%/accordion%
+
 
 ## For Non-Producers \(Hubs\)
 
@@ -52,8 +52,7 @@ Two types of profiles are available to non-producers \(distributors / hubs\):
 
 ![](../../.gitbook/assets/nonprod_new.jpg)
 
-{% tabs %}
-{% tab title="Non-Producer Profile" %}
+%accordion%Non-Producer Profile%accordion%
 With this option your enterprise will be visible on the Harvest To Order map and to customers searching our platform. 
 
 For more information on the quick setup guide for this type of profile, click [here](../../quick-start-guides/).
@@ -63,16 +62,16 @@ If you'd like to retail products made by a collection of producers on an existin
 
 You can put the link to your online shop in your enterprise description.
 {% endhint %}
-{% endtab %}
+%/accordion%
 
-{% tab title="Non-Producer Hub \(Multi-producer shop\)" %}
+%accordion%Non-Producer Hub \(Multi-producer shop\)%accordion%
 #### You would like to create an online shop
 
 This option allows you to manage a shop which retails products made by others. You can retail products from any Producer who has given you [permission](create-or-connect-with-your-supplying-producers.md) to do so. 
 
  For more information on the quick setup guide for this type of profile, [click here](../../quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md).
-{% endtab %}
-{% endtabs %}
+%/accordion%
+
 
 ## Changing your profile type
 

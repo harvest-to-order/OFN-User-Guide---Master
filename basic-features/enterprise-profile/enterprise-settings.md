@@ -73,56 +73,6 @@ This information is used to geolocate your enterprise the Harvest To Order map. 
 These differ from country to country and they depend on local regulations and laws.
 {% endhint %}
 
-{% tabs %}
-{% tab title="Australia" %}
-
-{% endtab %}
-
-{% tab title="Belgium" %}
-
-{% endtab %}
-
-{% tab title="Canada" %}
-
-{% endtab %}
-
-{% tab title="Catalunya" %}
-
-{% endtab %}
-
-{% tab title="France" %}
-**Siret:** This information will not be public. It is important for shop owners when they want to issue invoices from the platform.
-
-**N° intra-Community VAT:** This information will not be public. 
-
-**In VAT scheme?** If you are within the VAT scheme, select "yes".
-
-**Display the logo on the invoice:** You can choose to display or not the logo of your enterprise on the invoices issued from the platform.
-
-**Add a specific mention at the bottom of the invoices:** You can add a specific mention that you would have the obligation or the wish to add on your invoices.
-{% endtab %}
-
-{% tab title="UK" %}
-**Company Number:** For businesses registered at Companies House this is your unique identifying number.
-
-**Charity Number:** If your enterprise is a registered charity
-
-**Charges VAT:** VAT registered businesses should select this option so that VAT is managed appropriately on invoices and reports.
-
-**Display Logo on Invoices:** if desired.
-
-**Add Customised Text at the end of Invoices:** such as payment details \(if payments are accepted by BACS\) or terms and conditions.
-{% endtab %}
-
-{% tab title="USA" %}
-**ABN:** this will not be displayed publicly. It is required for shop users who want to print invoices.
-
-**ACN:** this will not be displayed publicly.
-
-**Charge GST?**– If you wish to charge GST for your products select ‘yes’.
-{% endtab %}
-{% endtabs %}
-
 ### Images
 
 **Logo image:** This will be visible when your profile is viewed in brief, as a pop up window. It will also show on your profile. This image must be square \(i.e. 100 x 100\), or it will be cropped/warped. 

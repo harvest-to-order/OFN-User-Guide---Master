@@ -41,8 +41,8 @@ If you change the Payment Method fee 'Calculator' field you must first save your
 
 For Paypal, MasterCard, Stripe and Pin Payments \(Australia only\) additional instructions are below.
 
-{% tabs %}
-{% tab title="Paypal" %}
+{% harvesttoorder.com %}
+%accordion%Paypal" %accordion%
 To setup a PayPal payment method, you need a PayPal business or merchant account. You can create one [here](https://www.paypal.com/au/webapps/mpp/merchant). Once you have that, you can set up ‘API access’ within PayPal, which will enable Harvest To Order to connect customers directly with your PayPal account.
 
 1. Login to your PayPal Account
@@ -77,20 +77,20 @@ Type “Mark” if you do want users to have a paypal account, or “Sole” if 
 **Landing Page:** You can select which page to show customers once they’re redirected to PayPal.
 
 Type “Login” to direct customer to the login form for PayPal \(if you selected “Mark” above\). Or type “Billing” to show show customers a form where they can enter their credit card data and possibly sign up for a PayPal account \(if you selected “Sole” above\).
-{% endtab %}
+%/accordion%
 
-{% tab title="MIGS" %}
+%accordion%MIGS%accordion%
  MasterCard Internet Gateway Service \(MIGS\)
 
 Set up of this service needs to be done through your bank. So far it has been tested with Bendigo Bank.
-{% endtab %}
+%/accordion%
 
-{% tab title="Stripe" %}
+%accordion%Stripe%accordion%
 [Stripe](https://stripe.com/au) is an online payment platform similar to Paypal. It will allow you to accept credit card payments from your customers. Stripe is a global platform, but is only available on certain Harvest To Order instances. Contact your [local Harvest To Order team](https://harvesttoorder.com/Harvest To Order-local/) to see whether it’s available on your Harvest To Order.
 
 #### Why use Stripe?
 
-Stripe is simple to setup for shop owners and is reasonably priced. The fees charged by Stripe vary in each country; [Australia](https://stripe.com/au/pricing), [Canada](https://stripe.com/ca/pricing), [France](https://stripe.com/fr/pricing), [UK](https://stripe.com/gb/pricing), [USA](https://stripe.com/us/pricing).
+Stripe is simple to setup for shop owners and is reasonably priced. The fees charged by Stripe vary in each country; [USA](https://stripe.com/us/pricing).
 
 Stripe is also easy for customers to use. Unlike Paypal, when the customer checks out, they don’t need to login with Paypal to place their order, rather they just need to enter their card details and then complete their order.
 
@@ -145,30 +145,7 @@ When a customer pays for their order with Stripe, the funds \(minus Stripe's fee
 If you need to take additional payment from a customer because they have further balance due,  you can create an invoice in Stripe. The customer will get sent an email asking for them to pay with Credit/Debit card. This won't be communicated to Harvest To Order, so you'll need to mark the payment off manually.
 
 ![](../../.gitbook/assets/image%20%2831%29.png)
-{% endtab %}
-
-{% tab title="Pin Payments" %}
-For Pin Payments you only require your API key. You need to set up an account with Pin Payments first, and can get a discount by signing up as an Harvest To Order member \([https://pin.net.au/partners/open-food-network/signup](https://pin.net.au/partners/open-food-network/signup)\)
-
-**API Key:**Enter your “Live Secret API Key’ here – you can find this in your PinPayments account \(see below\). First from your account, select API Keys. Then once you have generated an API key, copy the ‘Live Secret API Key’ and paste it into the API key field in Harvest To Order.
-
-![](../../.gitbook/assets/api-keys.png)
-
-![](../../.gitbook/assets/api-2.png)
-
-**Server:**Type ‘live’ – this is case sensitive.
-{% endtab %}
-{% endtabs %}
-
-## Payment Method Fees
-
-![](../../.gitbook/assets/fee-calculators.png)
-
-You can attach a fee to payment methods. Most commonly this is used to pass on a payment portal's fees to the customer.  For example, you may wish to charge the customer for the convenience of paying by PayPal to cover the fee charged by PayPal.
-
-{% hint style="danger" %}
-Payment Method Fees DO NOT include tax \(VAT\)
-{% endhint %}
+%/accordion%
 
 ### Fee Calculators
 

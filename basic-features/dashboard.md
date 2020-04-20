@@ -10,25 +10,22 @@ The options you will see on your dashboard will depend on which enterprise type 
 
 ### Producers
 
-{% tabs %}
-{% tab title="Producer Profile Only" %}
+
+%accordion%Producer Profile Only%accordion%
 ![](../.gitbook/assets/dashboard-profile-only.png)
-{% endtab %}
+%/accordion%
 
-{% tab title="Producer Profile and Shop" %}
+
+%accordion%Producer Profile and Shop%accordion%
 ![](../.gitbook/assets/dashboard-shop.png)
-{% endtab %}
-{% endtabs %}
-
+%/accordion%
 ### Hubs
 
-{% tabs %}
-{% tab title="Hub Profile Only" %}
+%accordion%Hub Profile Only%accordion%
 ![](../.gitbook/assets/hub-dashboard-profile-only.png)
-{% endtab %}
+%/accordion%
 
-{% tab title="Hub Profile and Shop" %}
+%accordion%Hub Profile and Shop%accordion%
 ![](../.gitbook/assets/hub-dashboard-shopfront.png)
-{% endtab %}
-{% endtabs %}
+%/accordion%
 
