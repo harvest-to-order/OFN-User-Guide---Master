@@ -41,7 +41,7 @@ If you change the Payment Method fee 'Calculator' field you must first save your
 
 For Paypal, MasterCard, Stripe and Pin Payments \(Australia only\) additional instructions are below.
 
-{% harvesttoorder.com %}
+
 %accordion%Paypal" %accordion%
 To setup a PayPal payment method, you need a PayPal business or merchant account. You can create one [here](https://www.paypal.com/au/webapps/mpp/merchant). Once you have that, you can set up ‘API access’ within PayPal, which will enable Harvest To Order to connect customers directly with your PayPal account.
 
@@ -86,7 +86,7 @@ Set up of this service needs to be done through your bank. So far it has been te
 %/accordion%
 
 %accordion%Stripe%accordion%
-[Stripe](https://stripe.com/au) is an online payment platform similar to Paypal. It will allow you to accept credit card payments from your customers. Stripe is a global platform, but is only available on certain Harvest To Order instances. Contact your [local Harvest To Order team](https://harvesttoorder.com/Harvest To Order-local/) to see whether it’s available on your Harvest To Order.
+[Stripe](https://stripe.com/au) is an online payment platform similar to Paypal. It will allow you to accept credit card payments from your customers.
 
 #### Why use Stripe?
 
