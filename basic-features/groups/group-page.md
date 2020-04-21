@@ -11,7 +11,7 @@ Any collection of enterprises on the Harvest To Order can create a group page.
 
 **What does a group page look like?** You can see some [Group Pages on Harvest To Order Australia](https://harvesttoorder.com/groups).
 
-**How can I create a group page?** To create and manage a group, you’ll need to [contact your local Harvest To Order ](https://www.harvesttoorder.com/find-your-local-open-food-network/)so we can set you up as an administrator.
+**How can I create a group page?** To create and manage a group, you’ll need to [contact your Harvest To Order ](https://www.harvesttoorder.com/find-your-local-open-food-network/)so we can set you up as an administrator.
 
 ## Managing a Group Page
 

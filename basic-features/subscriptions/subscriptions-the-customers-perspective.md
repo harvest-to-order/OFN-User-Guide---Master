@@ -6,7 +6,7 @@ This page details what a customer with a subscription can expect. It also highli
 
 Customers must have an account with Harvest To Order before you can process subscription orders for them.
 
-To create an account, direct the customer to the local Harvest To Order home page and 'Login' at the top right hand corner.  They'll be guided through registering with Harvest To Order. _**Customers must have an active email address to register**_.
+To create an account, direct the customer to the Harvest To Order home page and 'Login' at the top right hand corner.  They'll be guided through registering with Harvest To Order. _**Customers must have an active email address to register**_.
 
 After signing up they'll be sent a confirmation email. Once they click on the link in this email their account will be confirmed and they will be able to login. 
 

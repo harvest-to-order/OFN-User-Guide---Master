@@ -36,9 +36,9 @@ Of course, the last requirement is that you have a shop setup on Harvest To Orde
 
 ## Getting setup
 
-### **Contact your local Harvest To Order team**
+### **Contact your Harvest To Order team**
 
-First of all, you’ll need to [contact your local Harvest To Order team](https://harvesttoorder.com/contact/) and let them know that you want to embed your Harvest To Order shop in your own website. You’ll need to provide them with your external domain. E.g. happyhenfarm.com.au so they can grant permission for your website to communicate with Harvest To Order.
+First of all, you’ll need to [contact your Harvest To Order team](https://harvesttoorder.com/contact/) and let them know that you want to embed your Harvest To Order shop in your own website. You’ll need to provide them with your external domain. E.g. happyhenfarm.com.au so they can grant permission for your website to communicate with Harvest To Order.
 
 ### **Adding Custom HTML to your website**
 

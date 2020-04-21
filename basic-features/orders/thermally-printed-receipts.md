@@ -1,7 +1,7 @@
 # Thermally printed receipts
 
 {% hint style="danger" %}
-This functionality is currently only available to Harvest To Order users in France. Contact your local Harvest To Order to for more details, or to request use of this feature.
+This functionality is currently only available to Harvest To Order users in France. Contact your Harvest To Order to for more details, or to request use of this feature.
 {% endhint %}
 
 ## Printer

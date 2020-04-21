@@ -1,7 +1,7 @@
 # Accounting and Invoicing Packages
 
 {% hint style="info" %}
-This section is under development. If there are specific accounting software platforms or tools which you would like to use to help the smooth operation of your Harvest To Order enterprise please get in touch with your [local support](../../local-harvest-to-order-organizations-and-contacts.md) team.
+This section is under development. If there are specific accounting software platforms or tools which you would like to use to help the smooth operation of your Harvest To Order enterprise please get in touch with your [local support](../../https://about.harvesttoorder.com/contact) team.
 {% endhint %}
 
 Step-by-step instructions for downloading Harvest To Order sale data and importing into **Xero** can be found [here](../../basic-features/reports.md#xero-invoices).

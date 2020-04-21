@@ -96,7 +96,7 @@ When a producer wants to start selling their products through other enterprises 
 
 These examples explore some common scenarios.
 
-> **I am a producer and would like a local Harvest To Order hub to stock and sell my products.**
+> **I am a producer and would like a Harvest To Order hub to stock and sell my products.**
 
 **Essential:** For the hub to add your products to their shopfront, you’ll need to grant them _'permission to add to order cycle'_.
 

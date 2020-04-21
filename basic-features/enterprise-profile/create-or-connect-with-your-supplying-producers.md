@@ -34,7 +34,7 @@ Before creating a profile for your suppliers you should contact them and let the
 Be sure to ask the producer what information they would like shared on their profile. You can often take text and images from their existing websites or social media sites, however you should always ask permission before using any of their content. Once you have their information in front of you, a profile should take you no more than 10 minutes to create.
 
 {% hint style="info" %}
-By default you can create up to **5 enterprise profiles** on the platform. This is a spam prevention method, but once we know you aren’t a robot, we’ll give you permission to make extra enterprise profiles. If you need to create more [contact your local Harvest To Order entity](https://www.harvesttoorder.com/find-your-local-open-food-network/).
+By default you can create up to **5 enterprise profiles** on the platform. This is a spam prevention method, but once we know you aren’t a robot, we’ll give you permission to make extra enterprise profiles. If you need to create more [contact your Harvest To Order entity](https://www.harvesttoorder.com/find-your-local-open-food-network/).
 {% endhint %}
 
 ### Creating a producer profile:

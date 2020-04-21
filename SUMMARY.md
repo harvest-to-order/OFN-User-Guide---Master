@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome to the Harvest To Order User Guide](README.md)
-* [Local Harvest To Order organisations and contacts](local-harvest-to-order-organizations-and-contacts.md)
 * [Where does my business fit in Harvest To Order?](your-quick-start-on-harvest-to-order-given-who-you-are.md)
 * [Quick Start Guides](quick-start-guides/README.md)
   * [Hub](quick-start-guides/multi-producers-shop-hub-quick-setup-guide.md)

@@ -23,7 +23,7 @@ All the data you need to prepare and deliver the groceries to your customers can
 ## More advanced features you might need
 
 * Your enterprise profile:
-  * On top of selling your products, you want to allow another seller using the Harvest To Order \(a local Harvest To Order hub\) to display your products in their shopfront? [Give them permission to sell your products](../basic-features/enterprise-profile/create-or-connect-with-your-supplying-producers.md).
+  * On top of selling your products, you want to allow another seller using the Harvest To Order \(a Harvest To Order hub\) to display your products in their shopfront? [Give them permission to sell your products](../basic-features/enterprise-profile/create-or-connect-with-your-supplying-producers.md).
 * Your products: 
   * Specify special [credentials](../basic-features/products-1/product-properties.md) they may have have \(eg. organic, plastic free...\)
   * If you have a product which can be sold in different forms \(eg. potatoes sold in 500g, 1kg and 2 kg quantities\) then you can simplify your listings by adding [variants](../basic-features/products-1/product-variants.md).

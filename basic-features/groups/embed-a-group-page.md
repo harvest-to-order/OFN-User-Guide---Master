@@ -1,6 +1,6 @@
 # Embed a Group Page in a Website
 
-It is now possible to embed a group page into a website external to Harvest To Order. Here you will find step by step instructions for setting this up.  This feature is relatively new, and has not been comprehensively tested across all platforms. Please [contact your local Harvest To Order ](https://www.harvesttoorder.com/find-your-local-open-food-network/)if you experience issues with embedding a group page in your website. 
+It is now possible to embed a group page into a website external to Harvest To Order. Here you will find step by step instructions for setting this up.  This feature is relatively new, and has not been comprehensively tested across all platforms. Please [contact your Harvest To Order ](https://www.harvesttoorder.com/find-your-local-open-food-network/)if you experience issues with embedding a group page in your website. 
 
 ## Pre-requisites for Embedding a Group Page 
 
@@ -22,9 +22,9 @@ Before proceeding, you should complete [setting up your group page on the Harves
 
 ## How to Embed a Group Page
 
-**1\) Contact your local Harvest To Order team**
+**1\) Contact your Harvest To Order team**
 
-First of all, you’ll need to contact [your local Harvest To Order team](https://harvesttoorder.com/Harvest To Order-local/) and let them know you want to embed your Harvest To Order group page in your website. You’ll need to provide them with your external domain. eg. regionalgroup.com.au so they can grant permission for your website to communicate with Harvest To Order.
+First of all, you’ll need to contact [your Harvest To Order team](https://harvesttoorder.com/Harvest To Order-local/) and let them know you want to embed your Harvest To Order group page in your website. You’ll need to provide them with your external domain. eg. regionalgroup.com.au so they can grant permission for your website to communicate with Harvest To Order.
 
 **2\) Adding Custom HTML to your website**
 
