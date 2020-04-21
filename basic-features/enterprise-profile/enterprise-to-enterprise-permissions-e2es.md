@@ -66,7 +66,7 @@ When a user is the main manager of several enterprises on the platform, [the fou
 
 The following common scenarios demonstrate enterprise-enterprise permissions you may need to set up for your hub.
 
-> **I have** [**created Producer Profiles for each of my suppliers**](create-or-connect-with-your-supplying-producers.md#supplier-does-not-have-an-Harvest To Order-profile)**. Which permissions do I need to set up before I can stock their products on my Hub shopfront?**
+> **I have** [**created Producer Profiles for each of my suppliers**](create-or-connect-with-your-supplying-producers.md#supplier-does-not-have-an-harvest-to-order-profile)**. Which permissions do I need to set up before I can stock their products on my Hub shopfront?**
 
 The system is configured so that hubs creating producer profiles will have the _correct permissions installed as default_, so that they can start adding products and trading with these producer profiles right away.
 

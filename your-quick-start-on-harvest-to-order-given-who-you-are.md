@@ -6,7 +6,7 @@ description: Identify the classification of your food enterprise within the Harv
 
 Depending on the type of food enterprise you are running, you will use the Harvest To Order platform differently.
 
-We classify food enterprises in three ways: [Profiles](your-quick-start-on-Harvest To Order-given-who-you-are.md#profile), [Shops](your-quick-start-on-Harvest To Order-given-who-you-are.md#shop) or [Hubs](your-quick-start-on-Harvest To Order-given-who-you-are.md#hub).
+We classify food enterprises in three ways: [Profiles](your-quick-start-on-harvest-to-order-given-who-you-are.md#profile), [Shops](your-quick-start-on-harvest-to-order-given-who-you-are.md#shop) or [Hubs](your-quick-start-on-harvest-to-order-given-who-you-are.md#hub).
 
 ![](.gitbook/assets/l-flowchart%20%281%29.png)
 
@@ -21,7 +21,7 @@ Farmers' Market, Veg box scheme, Crofting Groups, Social Food Community groups, 
 Hubs can take many forms but, in essence, your enterprise is best classified as a 'Hub' on Harvest To Order if you wish to **sell produce made by others.** You can retail your own products alongside those of other farmers, bakers, growers... \(a '**Producer Hub**'\) or act solely as a distributor to sell a collection of groceries made by \(local\) enterprises \(a '**Non-Producer Hub**'\).
 
 {% hint style="info" %}
-If you'd prefer to sell only products that **you** make then the '[shop](your-quick-start-on-Harvest To Order-given-who-you-are.md#shop)' classification suites your needs better.
+If you'd prefer to sell only products that **you** make then the '[shop](your-quick-start-on-harvest-to-order-given-who-you-are.md#shop)' classification suites your needs better.
 {% endhint %}
 
 #### Harvest To Order can help your hub thrive and prosper by:
@@ -46,13 +46,13 @@ Farmers, Bakers, Growers, Individual Crofters, Cottage Enterprises, Small Holder
 Shops can take many forms but in essence, your enterprise is best classified as a 'Shop' on Harvest To Order if you wish to **sell** _**only**_ **produce** that **you** make.
 
 {% hint style="danger" %}
-If you'd wish to sell products made by others as well as yourself then it is necessary to register as a '[Hub](your-quick-start-on-Harvest To Order-given-who-you-are.md#hub)'.
+If you'd wish to sell products made by others as well as yourself then it is necessary to register as a '[Hub](your-quick-start-on-harvest-to-order-given-who-you-are.md#hub)'.
 {% endhint %}
 
 As a shop; as well as selling directly to customers through your shop front; you can also supply other Harvest To Order retailers \(Hubs\) with your produce.
 
 {% hint style="warning" %}
-If you'd prefer not to organise sales to customers directly but would like to **only** supply an Harvest To Order hub with goods then the '[Profile](your-quick-start-on-Harvest To Order-given-who-you-are.md#profile)' classification suits your needs better.
+If you'd prefer not to organise sales to customers directly but would like to **only** supply an Harvest To Order hub with goods then the '[Profile](your-quick-start-on-harvest-to-order-given-who-you-are.md#profile)' classification suits your needs better.
 {% endhint %}
 
 #### Harvest To Order can help your shop thrive and prosper by:
@@ -75,7 +75,7 @@ The 'Profile' is the most basic enterprise classification on Harvest To Order an
 An Harvest To Order profile is ideal for **increasing your online visibility** and gives you the opportunity to connect in a simple manner with local retailers \(hubs\) who can manage customer sales for you.
 
 {% hint style="warning" %}
-If you'd prefer to organise sales to customers yourself then the '[shop](your-quick-start-on-Harvest To Order-given-who-you-are.md#shop)' or '[Hub](your-quick-start-on-Harvest To Order-given-who-you-are.md#hub)' classification is better suited to your needs.
+If you'd prefer to organise sales to customers yourself then the '[shop](your-quick-start-on-harvest-to-order-given-who-you-are.md#shop)' or '[Hub](your-quick-start-on-harvest-to-order-given-who-you-are.md#hub)' classification is better suited to your needs.
 {% endhint %}
 
 #### Harvest To Order can help your food enterprise thrive and prosper by:

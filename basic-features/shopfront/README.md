@@ -1,6 +1,6 @@
 # Shopfront
 
-To open your online shop on Harvest To Order and start selling, your enterprise must be registered as either a Producer Shop or Producer/Non-Producer Hub.  Read more about the different Enterprise profiles[ here](../../your-quick-start-on-Harvest To Order-given-who-you-are.md) and [here](../enterprise-profile/).
+To open your online shop on Harvest To Order and start selling, your enterprise must be registered as either a Producer Shop or Producer/Non-Producer Hub.  Read more about the different Enterprise profiles[ here](../../your-quick-start-on-harvest-to-order-given-who-you-are.md) and [here](../enterprise-profile/).
 
 The next essential steps are to set up [Shipping](shipping-methods.md) and [Payment](payment-methods.md) Methods for your enterprise.  At this stage we also suggest creating [Enterprise Fees](enterprise-fees.md) \(a mark up added to the price each product charged by the supplying producer to cover admin and distribution costs\).
 

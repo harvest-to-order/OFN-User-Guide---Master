@@ -4,7 +4,7 @@ After completing your [enterprise registration](../register-and-create-your-prof
 
 ![](../../.gitbook/assets/newregister.jpg)
 
-From here you will need to choose the Harvest To Order profile which [best matches your business model](../../your-quick-start-on-Harvest To Order-given-who-you-are.md). **Without this step, your enterprise account will not be created and, hence, your enterprise will remain invisible on our map.** 
+From here you will need to choose the Harvest To Order profile which [best matches your business model](../../your-quick-start-on-harvest-to-order-given-who-you-are.md). **Without this step, your enterprise account will not be created and, hence, your enterprise will remain invisible on our map.** 
 
 ![](../../.gitbook/assets/newchoose.jpg)
 

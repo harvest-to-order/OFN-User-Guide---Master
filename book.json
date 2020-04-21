@@ -1,3 +1,52 @@
 {
-    "plugins": ["accordion", "collapsible-menu", "videoclips", "youtube", "expandable-chapters", "toggle-chapters", "hints", "tabs"] 
+    "plugins": [
+        "accordion",
+        "collapsible-menu",
+        "videoclips",
+        "youtube",
+        "expandable-chapters",
+        "toggle-chapters",
+        "hints",
+        "tabs",
+        "-fontsettings",
+        "back-to-top-button",
+        "copy-code-button",
+        "search",
+        "heading-anchors",
+        "h2otheme"
+    ],
+    "variables": {
+        "h2otheme": {
+            "nav": [
+                {
+                    "url": "https://guide.harvesttoorder.com",
+                    "target": "_blank",
+                    "name": "About Harverst To Order"
+                },
+                {
+                    "url": "https://harvesttoorder.com",
+                    "target": "_blank",
+                    "name": "Vist Harvest To Order"
+                },
+                {
+                    "url": "https://harvesttoorder.com/register",
+                    "target": "_blank",
+                    "name": "Create Your Storefront"
+                },
+                {
+                    "url": "https://harvesttoorder.com/#/login",
+                    "target": "_blank",
+                    "name": "Login"
+                }
+            ]
+        }
+    },
+    "pluginsConfig": {
+        "h2otheme": {
+            "search-placeholder": "searh harvest to order",
+            "logo": "./logo.png",
+            "favicon": "./favicon.ico"
+        }
+    }
 }
+

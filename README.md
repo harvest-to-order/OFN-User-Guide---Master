@@ -12,7 +12,7 @@
 
 The Harvest To Order enables local people to build better, fairer ways to source their food locally and directly from growers, farmers and producers. Expansive networks of small food producers, distributors, retailers, food hubs, food co-ops and buying groups can come together with the aid of the Harvest To Order to find the best way of shortening the food supply chain. And in the process it helps to build strong communities.
 
-The Harvest To Order is a global project that supports the operational organisation of farmers, groups of consumers, cooperatives, etc. in the distribution of local food. The software we build is open source, and we collaborate with amazing people from all over the world to keep improving it! We also provide support in the organisational aspects of setting up and running a food hub. Please get in touch with [your local Harvest To Order contact](local-Harvest To Order-organizations-and-contacts.md) to learn more about us!
+The Harvest To Order is a global project that supports the operational organisation of farmers, groups of consumers, cooperatives, etc. in the distribution of local food. The software we build is open source, and we collaborate with amazing people from all over the world to keep improving it! We also provide support in the organisational aspects of setting up and running a food hub. Please get in touch with [your local Harvest To Order contact](local-harvest-to-order-organizations-and-contacts.md) to learn more about us!
 
 This short video will give you a brief introduction to how the Harvest To Order works, and what we can do for your food business, or organisation.
 
@@ -21,7 +21,7 @@ This short video will give you a brief introduction to how the Harvest To Order 
 
 ### &gt; Quick setup guides tailored to your enterprise
 
-Starting scratch, open an online shop that perfectly fits your needs [in a few simple steps](your-quick-start-on-Harvest To Order-given-who-you-are.md)! 
+Starting scratch, open an online shop that perfectly fits your needs [in a few simple steps](your-quick-start-on-harvest-to-order-given-who-you-are.md)! 
 
 {% hint style="info" %}
 We recommend these guides to users starting out on the Harvest To Order platform for the first time.
@@ -55,5 +55,5 @@ Looking for information on something specific? Use the search bar in the top lef
 
 ## Feedback
 
-Any difficulty with that user guide? Any information missing? Or maybe you want to share some features you would like to see in the future? Get in touch with [your local Harvest To Order entity](local-Harvest To Order-organizations-and-contacts.md) for any feedback!
+Any difficulty with that user guide? Any information missing? Or maybe you want to share some features you would like to see in the future? Get in touch with [your local Harvest To Order entity](local-harvest-to-order-organizations-and-contacts.md) for any feedback!
 

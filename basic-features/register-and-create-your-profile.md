@@ -44,7 +44,7 @@ Your address will be used to add your business to our map of Harvest To Order en
 
 **Your first "enterprise" is now created and you have started to fill in your profile, but it's not finished!** 
 
-**The next step is to** [**choose the Harvest To Order package**](enterprise-profile/package-types.md) **\(= profile type\) which best represents your** [**business model**](../your-quick-start-on-Harvest To Order-given-who-you-are.md)**.**  
+**The next step is to** [**choose the Harvest To Order package**](enterprise-profile/package-types.md) **\(= profile type\) which best represents your** [**business model**](../your-quick-start-on-harvest-to-order-given-who-you-are.md)**.**  
 
 ![](../.gitbook/assets/newchoose.jpg)
 

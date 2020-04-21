@@ -1,9 +1,9 @@
 # Order Cycles \(for Hubs\)
 
 {% hint style="warning" %}
-Read on if you selected the Enterprise Profile '[Producer or Non Producer Hub](../../../your-quick-start-on-Harvest To Order-given-who-you-are.md#hub)'. 
+Read on if you selected the Enterprise Profile '[Producer or Non Producer Hub](../../../your-quick-start-on-harvest-to-order-given-who-you-are.md#hub)'. 
 
-Visit this [page](order-cycles-for-producers.md), if you registered as a '[Producer Shop](../../../your-quick-start-on-Harvest To Order-given-who-you-are.md#shop)' and want to set up an order cycle for your shop front.
+Visit this [page](order-cycles-for-producers.md), if you registered as a '[Producer Shop](../../../your-quick-start-on-harvest-to-order-given-who-you-are.md#shop)' and want to set up an order cycle for your shop front.
 {% endhint %}
 
 You open you shop by creating an Order Cycle. When you make an order cycle you select when you shop is open \(from and until\), which products will go into the shop, and any fees that you'll apply.

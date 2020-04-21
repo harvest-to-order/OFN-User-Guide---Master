@@ -1,9 +1,9 @@
 # Order Cycles \(for Shops\)
 
 {% hint style="warning" %}
-Read on if you're registered as a [Producer Shop](../../../your-quick-start-on-Harvest To Order-given-who-you-are.md#shop) and wish to open your own store.
+Read on if you're registered as a [Producer Shop](../../../your-quick-start-on-harvest-to-order-given-who-you-are.md#shop) and wish to open your own store.
 
-Visit this [page](order-cycles-for-hubs.md) if you wish to open an online store for a multi-producer shop front \([hub](../../../your-quick-start-on-Harvest To Order-given-who-you-are.md#hub)\).
+Visit this [page](order-cycles-for-hubs.md) if you wish to open an online store for a multi-producer shop front \([hub](../../../your-quick-start-on-harvest-to-order-given-who-you-are.md#hub)\).
 {% endhint %}
 
 In Harvest To Order, Order Cycles are where shop managers open their shop. This involves selecting which of their products are in stock, what fees are applied and what dates the shop will open and close.
