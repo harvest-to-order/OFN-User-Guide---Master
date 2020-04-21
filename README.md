@@ -49,5 +49,5 @@ Looking for information on something specific? Use the search bar in the top lef
 
 Any difficulty with that user guide? Any information missing? Or maybe you want to share some features you would like to see in the future? Get in touch with [your Harvest To Order support team](https://about.harvesttoorder.com/contact) for any feedback!
 
-## Our Deepest Thanks TO Open Food NEtowrk
-These is released publicly under Creative Commons CC BY-SA 4.0 so they can be used by anyone for commercial or non-commercial use. We would like to thank [Open Food Network](http://openfoodnetwork.org/) For the Development of the software and releasing these resources
+## Our Deepest Thanks TO Open Food Netowrk
+This guide is released publicly under Creative Commons CC BY-SA 4.0 so they can be used by anyone for commercial or non-commercial use. We would like to thank [Open Food Network](http://openfoodnetwork.org/) For the Development of the software and releasing these resources.
